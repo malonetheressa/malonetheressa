@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @malonetheressa
-- 👀 I’m interested in front end development
+- 👀 I’m interested in creative development
 - 🌱 I’m currently learning JavaScript and React
 
 <!---
